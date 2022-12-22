@@ -6,7 +6,7 @@ It is a social communication application such as the WhatsApp program, through w
  <b> backend : FireStore (firebase).</b><br><br>
   <b> State Management is : Riverpod.</b><br><br>
 
-   <b>  debug mode version apk : https://www.4shared.com/s/fYG0wYjGAfa .</b><br><br>
+   <b>  debug mode version apk "K App" : https://www.4shared.com/s/fYG0wYjGAfa .</b><br><br>
 
   <b>features Done :</b><br><br>
  1- Register by phone number<br>
